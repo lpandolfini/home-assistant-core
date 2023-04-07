@@ -438,6 +438,7 @@ FLOWS = {
         "tasmota",
         "tautulli",
         "tellduslive",
+        "teltonika",
         "tesla_wall_connector",
         "thermobeacon",
         "thermopro",
